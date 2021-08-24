@@ -1,0 +1,126 @@
+.footer{
+    width: 1600px;
+    height: 432px;
+    background: linear-gradient(183.41deg, #67C3F3 -8.57%, #5A98F2 82.96%);
+    position: absolute;
+    top:810%;
+}
+
+.logo{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.down {
+    width: 41px;
+    height: 41px;
+    margin-top: 41px;
+    margin-left: 41px;
+}
+
+.up{
+    position: absolute;
+    left: 3.4%;
+    top: 12%;
+}
+
+.footer h3{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 2.4rem;
+    line-height: 1.25;
+    color: #FFFFFF;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    position: absolute;
+    left: 6%;
+    top: 12%;
+}
+
+.prog{
+    font-style: normal;
+    font-weight: 300;
+    font-size: 1.8rem;
+    line-height: 1.56;
+    color: #FFFFFF;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    position: absolute;
+    left: 3%;
+    top: 25%;
+}
+
+.data{
+    font-style: normal;
+    font-weight: 300;
+    font-size: 1.6rem;
+    line-height: 1.75;
+    color: #FFFFFF;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    position: absolute;
+    left: 3%;
+    top: 48%;
+}
+
+.navigation ul{
+    width: 160px;
+    height: 190px;
+    display: flex;
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: auto;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.navigation li{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    text-align: justify;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 1.8rem;
+    line-height: 2.11;
+    color: #FFFFFF;
+}
+
+.about{
+    position: absolute;
+    left:37% ;
+    top: 12%;
+}
+
+.region{
+    position:absolute;
+    left: 50%;
+    top: 12%;
+}
+
+.help{
+    position:absolute;
+    left: 62%;
+    top: 12%; 
+}
+
+.navigation h4{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 2rem;
+    line-height: 3.00;
+    color: #FFFFFF;
+}
+
+.navigation a{
+    color: white;
+    text-decoration: none;
+}
+
+
+
+
+

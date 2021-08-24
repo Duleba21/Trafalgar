@@ -1,0 +1,71 @@
+.author{
+    width: 1120px;
+    height: 425px;
+    background: linear-gradient(208.18deg, #67C3F3 9.05%, #5A98F2 76.74%);
+    border-radius: 24px;
+    position: absolute;
+    top: 560%;
+}
+
+.author h2{
+    font-weight: 700;
+    font-size: 3.6rem;
+    line-height: 1.33;
+    color: #FFFFFF;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-content: center;
+    justify-content: center;
+    margin-top: 60px;
+}
+
+.author img{
+    width: 141px;
+    height: 141px;
+    position: absolute;
+    left: 8%;
+    top: 42%;
+}
+
+.wrap h4{
+   display: flex;
+   flex-wrap: wrap;
+   flex-direction: row;
+   font-weight: 700;
+   font-size: 2.2rem;
+   line-height: 2.18;
+   color: #FFFFFF;
+   position: absolute;
+   left: 22%;
+   top: 46%;
+
+}
+
+.found{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.8rem;
+    line-height: 2.67;
+    color: #FFFFFF;
+    position: absolute;
+    left: 22%;
+    top: 62%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.phrase p{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.9rem;
+    line-height: 1.58;
+    position: absolute;
+    color: white;
+    left: 50%;
+    top: 46%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
